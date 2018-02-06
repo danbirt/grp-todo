@@ -1,5 +1,7 @@
-# Boilerplace Meteor Project
+## Group Todo
 
-This includes a basic react and auth setup. 
+This is a todo app made for group editing of lists. 
 
-From Andrew Mead's Meteor course on Udemy.
+## Authors
+
+Dan Birt
