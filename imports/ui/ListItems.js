@@ -54,8 +54,7 @@ export default class Lists extends React.Component {
             if (!email) {
                 return '';
             }
-            console.log(email.emails[0].address);
-            return <p>{email.emails[0].address}: {text.text}</p>;
+            return <h4 className="item item__shared">{email.emails[0].address}: {text.text}</h4>;
         });
     }
 

@@ -3,6 +3,10 @@
     color: $header-color;
 }
 
+.header a{
+    color: $header-color;
+}
+
 .header__content {
     display: flex;
     justify-content: space-between;
